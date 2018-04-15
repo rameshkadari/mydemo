@@ -1,5 +1,7 @@
 package com.mydemogit.service.impl;
 
-public class ContactsServiceImpl {
+import com.mydemogit.servicei.ContactsServiceI;
+
+public class ContactsServiceImpl implements ContactsServiceI{
 
 }

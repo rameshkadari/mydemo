@@ -1,10 +1,19 @@
 package com.mydemogit.controller;
 
+import javax.ws.rs.POST;
+import javax.ws.rs.Path;
+
+@Path("/contacts")
 public class ContactController {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-System.out.println("This is my first change");
+	
+	
+	@POST
+	@Path("/create")
+	public Object  createContacts(){
+		Object response= null;
+	return	 null;
+		
 	}
 
 }

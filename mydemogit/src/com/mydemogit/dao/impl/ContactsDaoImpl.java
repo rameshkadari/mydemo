@@ -1,5 +1,7 @@
 package com.mydemogit.dao.impl;
 
-public class ContactsDaoImpl {
+import com.mydemogit.daoi.ContactsDaoI;
+
+public class ContactsDaoImpl implements ContactsDaoI {
 
 }
