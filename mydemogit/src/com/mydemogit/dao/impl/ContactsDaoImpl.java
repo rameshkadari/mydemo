@@ -1,4 +1,4 @@
-package com.mydeogit.dao.impl;
+package com.mydemogit.dao.impl;
 
 public class ContactsDaoImpl {
 
