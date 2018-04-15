@@ -1,6 +1,6 @@
 package com.mydemogit.controller;
 
-public class DemoController {
+public class ContactController {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
